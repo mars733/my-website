@@ -1,0 +1,23 @@
+body{
+   background-color:#EAF6F6;
+   font-size:20px;
+   font-style:italic;
+   text-align:center;
+  }
+  #pic{
+   width:140px;
+   height:140px;
+   border-radius:70px;
+   box-shadow:aqua;
+  }
+hr{
+    width:10%;
+    border-style: dotted none none none;
+    border-color: grey;
+    border-width: 5px;
+
+}
+
+h1,h3 {
+    color:#66BFBF;
+}
