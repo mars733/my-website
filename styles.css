@@ -21,3 +21,6 @@ hr{
 h1,h3 {
     color:#66BFBF;
 }
+table {
+    margin: auto; /* Centers the table */
+}
